@@ -1,6 +1,6 @@
 ### Hi there!
 
-Thanks for dropping by, I am a Senior Software Engineer with 10 years of experience.
+Thanks for dropping by, I am a Technical Lead with 13+ years of industry experience.
 [Here](http://hamzeen.github.com) you can find my portfolio.
 
 ### Links
