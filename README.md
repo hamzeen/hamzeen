@@ -1,12 +1,12 @@
 ### Hi there!
 
-Thanks for dropping by, I am a Technical Lead with 13+ years of industry experience.
-[Here](http://hamzeen.github.com) you can find my portfolio.
+Thanks for dropping by, I am a Technical Lead with 13+ years of industry experience. 
+My portfolio can be found [here](http://hamzeen.github.io)
 
 ### Links
 
-- ✍️ Blogging at [medium](https://hamzeen.medium.com/)
-- ⏳ Killing time on [Stack Overflow](https://stackoverflow.com/users/4947422/hamzeen-hameem)
+- ✍️ [blog](https://hamzeen.medium.com/)
+- ⏳ [Stack Overflow](https://stackoverflow.com/users/4947422/hamzeen-hameem)
 
 ### &#x1f4c8; GitHub Stats
 
