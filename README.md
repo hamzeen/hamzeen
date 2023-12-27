@@ -6,6 +6,7 @@ My portfolio can be found [here](http://hamzeen.github.io)
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [painless code formatting](https://hamzeen.medium.com/painless-code-formatting-18fe8bf45398)
+- [holy grail of templating engines in javascript](https://hamzeen.medium.com/holy-grail-of-templating-engines-in-javascript-aaa1e76b6eb4)
 <!-- BLOG-POST-LIST:END -->
 
 ### Social
