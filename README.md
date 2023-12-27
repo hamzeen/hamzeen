@@ -1,6 +1,6 @@
 ### Hi there!
 
-Thanks for dropping by, I am a Technical Lead wokring on technologies like NodeJS & SpringBoot. I have my portoflio [here](http://hamzeen.github.io)
+Thanks for dropping by, I am a Technical Lead wokring on technologies like NodeJS & SpringBoot. 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
