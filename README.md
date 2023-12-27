@@ -29,11 +29,10 @@ My portfolio can be found [here](http://hamzeen.github.io)
 ### &nbsp;
 
 <p align="center">
-    <img align="center" src="https://komarev.com/ghpvc/?username=hamzeen" alt="christian-bromann" />
+    <img align="center" src="https://komarev.com/ghpvc/?username=hamzeen" alt="hamzeen" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=hamzeen" alt="christian-bromann" />
   <a href="https://www.github.com/hamzeen" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/hamzeen?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </p>
