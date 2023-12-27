@@ -1,6 +1,6 @@
 ### Hi there!
 
-Thanks for dropping by, I am a Technical Lead wokring on technologies like NodeJS & SpringBoot. 
+Thanks for dropping by, I am a Technical Lead working on technologies like NodeJS & Java. 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
