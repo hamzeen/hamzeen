@@ -3,7 +3,7 @@
 Thanks for dropping by, I am a Technical Lead with 13+ years of industry experience. 
 My portfolio can be found [here](http://hamzeen.github.io)
 
-### Links
+### Social
 
 - ✍️ [blog](https://hamzeen.medium.com/)
 - ⏳ [Stack Overflow](https://stackoverflow.com/users/4947422/hamzeen-hameem)
@@ -18,6 +18,8 @@ My portfolio can be found [here](http://hamzeen.github.io)
     &nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzeen&show_icons=true&count_private=true" alt="hamzeen" width="50%"/>
 </p>
+
+### &nbsp;
 
 <p align="center">
     <img align="center" src="https://komarev.com/ghpvc/?username=hamzeen" alt="christian-bromann" />
