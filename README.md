@@ -1,4 +1,4 @@
-### Hi there!
+### Hi There!
 
 Thanks for dropping by, I am a Technical Lead working on technologies like NodeJS & Java. 
 
