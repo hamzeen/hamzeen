@@ -1,6 +1,6 @@
 ### Hi There!
 
-Thanks for dropping by, I am a Technical Lead working on technologies like NodeJS & Java. 
+My name is Hamzeen. I am a Technical Lead working on technologies like NodeJS & Java. 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
