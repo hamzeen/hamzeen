@@ -3,6 +3,11 @@
 Thanks for dropping by, I am a Technical Lead with 13+ years of industry experience. 
 My portfolio can be found [here](http://hamzeen.github.io)
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+- [painless code formatting](https://hamzeen.medium.com/painless-code-formatting-18fe8bf45398)
+<!-- BLOG-POST-LIST:END -->
+
 ### Social
 
 - ✍️ [blog](https://hamzeen.medium.com/)
