@@ -4,6 +4,7 @@ My name is Hamzeen. I am a Technical Lead working on technologies like NodeJS & 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Micro Frontends (MFE) / module federation](https://hamzeen.medium.com/scaling-software-teams-bcc022f1d62c)
 - [painless code formatting](https://hamzeen.medium.com/painless-code-formatting-18fe8bf45398)
 - [holy grail of templating engines in javascript](https://hamzeen.medium.com/holy-grail-of-templating-engines-in-javascript-aaa1e76b6eb4)
 - [nested functions in javascript](https://hamzeen.medium.com/nested-functions-in-javascript-957bfc97961c)
